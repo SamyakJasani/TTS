@@ -1,6 +1,6 @@
 # TTS - Text to Speech with Audio & Speed Control
 
-ChotuTTS is a simple Streamlit web app that converts text to speech using Google Text-to-Speech (gTTS) and lets you choose playback speed. Download the generated MP3 file or listen to it directly in the browser.
+TTS is a simple Streamlit web app that converts text to speech using Google Text-to-Speech (gTTS) and lets you choose playback speed. Download the generated MP3 file or listen to it directly in the browser.
 
 ## Features
 
